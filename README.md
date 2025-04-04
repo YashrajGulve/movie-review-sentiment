@@ -13,7 +13,7 @@ It uses:
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the app](http://192.168.187.232:8501)  
+👉 [Click here to use the app]([http://192.168.187.232:8501](https://movie-review-sentiment-qt2s.onrender.com))  
 
 ## 📁 Files
 
