@@ -14,7 +14,6 @@ It uses:
 ## 🚀 Live Demo
 
 👉 [Click here to use the app](http://192.168.187.232:8501)  
-_(Replace with your actual Render link)_
 
 ## 📁 Files
 
